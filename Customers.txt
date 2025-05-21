@@ -1,0 +1,41 @@
+Sathvik 19 svn@gmail.com 345432892 Svn 4
+Devara
+15 12 2024
+13 30
+17 0
+6.91647e-310
+Telugu
+Meenakshi
+ECity
+5
+6
+Interstellar
+31 12 2024
+15 0
+18 40
+6.91647e-310
+English
+Shudarshan
+ECity
+2
+5
+Animal
+12 12 2024
+14 30
+17 0
+6.91647e-310
+Hindi
+Sandhya
+Madiwala
+3
+4
+Bhool Bulaiya
+28 12 2024
+23 30
+1 30
+6.91647e-310
+Hindi
+Sandhya
+Madiwala
+6
+7
